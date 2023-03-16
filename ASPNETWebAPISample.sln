@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETWebAPISample", "ASPNETWebAPISample\ASPNETWebAPISample.csproj", "{99A946CD-1605-4B49-9A7D-15B0C0BC953E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNETWebAPISample", "ASPNETWebAPISample\ASPNETWebAPISample.csproj", "{99A946CD-1605-4B49-9A7D-15B0C0BC953E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETWebAPISample.Test", "ASPNETWebAPISample.Test\ASPNETWebAPISample.Test.csproj", "{8ADB3DC4-9717-497B-8A48-009D979E9E76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{99A946CD-1605-4B49-9A7D-15B0C0BC953E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A946CD-1605-4B49-9A7D-15B0C0BC953E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A946CD-1605-4B49-9A7D-15B0C0BC953E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADB3DC4-9717-497B-8A48-009D979E9E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADB3DC4-9717-497B-8A48-009D979E9E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADB3DC4-9717-497B-8A48-009D979E9E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADB3DC4-9717-497B-8A48-009D979E9E76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
